@@ -340,27 +340,31 @@ function xemtriet() {
     // document.getElementById("detriet").style.display = "flex"
     // document.getElementById("score-container1").style.display = "none"
     // document.getElementById("score-container2").style.display = "none"
-    window.location.href='./kqtriet.html'
+    // window.location.href='./kqtriet.html'
+    redirectToNewPage('kqtriet.html')
 
 }
 function xemgiaitich() {
     // document.getElementById("degiaitich").style.display = "flex"
     // document.getElementById("score-container1").style.display = "none"
     // document.getElementById("score-container2").style.display = "none"
-    window.location.href='./kqgiaitich.html'
+    // window.location.href='./kqgiaitich.html'
+    redirectToNewPage('kqgiaitich.html')
 }
 function xemvatly() {
     // document.getElementById("devatly").style.display = "flex"
     // document.getElementById("score-container1").style.display = "none"
     // document.getElementById("score-container2").style.display = "none"
-    window.location.href='./kqvatly.html'
+    // window.location.href='./kqvatly.html'
+    redirectToNewPage('kqvatly.html')
 }
 function xemttdd() {
     // document.getElementById("dethongtindidong").style.display = "flex"
    
     // document.getElementById("score-container1").style.display = "none"
     // document.getElementById("score-container2").style.display = "none"
-    window.location.href='./kqttdd.html'
+    // window.location.href='./kqttdd.html'
+    redirectToNewPage('kqttdd.html')
 
 }
 function donganh() {
